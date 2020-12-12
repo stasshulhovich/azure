@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Main\\auto\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj": {}
+    "C:\\Main\\Autogit\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Main\\auto\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj": {
+    "C:\\Main\\Autogit\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Main\\auto\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj",
+        "projectUniqueName": "C:\\Main\\Autogit\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj",
         "projectName": "NUnitTestProject",
-        "projectPath": "C:\\Main\\auto\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj",
+        "projectPath": "C:\\Main\\Autogit\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Main\\auto\\NUnitTestProject\\NUnitTestProject\\obj\\",
+        "outputPath": "C:\\Main\\Autogit\\NUnitTestProject\\NUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
