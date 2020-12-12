@@ -14,9 +14,10 @@ namespace NUnitTestProject
         [Test]
         public void Test1()
         {
-            // alohomora
             IWebDriver driver = new ChromeDriver();
             driver.Url = "https://www.demoqa.com";
+            var alora = "test";
+            Assert.IsTrue(alora.Contains("12345"));
             driver.Close();
         }
     }
